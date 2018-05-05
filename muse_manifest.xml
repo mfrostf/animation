@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="animation.asia" resolutions="1x" timestamp="1525513325252">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="animation.asia" resolutions="1x" timestamp="1525519413712">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="497203859" ref="index"/>
     <file name="nomq_index.css" crc="136870798" ref="index"/>
-    <file name="character1.css" crc="3863501133" ref="character1"/>
+    <file name="character1.css" crc="267341431" ref="character1"/>
     <file name="nomq_character1.css" crc="15853158" ref="character1"/>
     <file name="text.css" crc="4049249542" ref="text"/>
     <file name="nomq_text.css" crc="3823877609" ref="text"/>
@@ -97,63 +97,31 @@
       <caption webpage="character1" alt=""/>
       <caption webpage="character1" alt=""/>
     </file>
-    <file name="art1.jpg" crc="68459731" seo="true" ref="character1">
-      <caption webpage="character1" alt=""/>
-      <caption webpage="character1" alt=""/>
-    </file>
-    <file name="art2.jpg" crc="150643785" seo="true" ref="character1">
-      <caption webpage="character1" alt=""/>
-      <caption webpage="character1" alt=""/>
-    </file>
-    <file name="art3.jpg" crc="504529692" seo="true" ref="character1">
-      <caption webpage="character1" alt=""/>
-      <caption webpage="character1" alt=""/>
-    </file>
-    <file name="art4.jpg" crc="295402877" seo="true" ref="character1">
-      <caption webpage="character1" alt=""/>
-      <caption webpage="character1" alt=""/>
-    </file>
-    <file name="art5.jpg" crc="4272311" seo="true" ref="character1">
-      <caption webpage="character1" alt=""/>
-      <caption webpage="character1" alt=""/>
-    </file>
-    <file name="art6.jpg" crc="3766483182" seo="true" ref="character1">
-      <caption webpage="character1" alt=""/>
-      <caption webpage="character1" alt=""/>
-    </file>
-    <file name="art1-crop-u210.jpg" crc="4263911305" seo="true" ref="character1">
-      <caption webpage="character1" alt=""/>
-    </file>
-    <file name="art2-crop-u279.jpg" crc="147984015" seo="true" ref="character1">
-      <caption webpage="character1" alt=""/>
-    </file>
-    <file name="art3-crop-u288.jpg" crc="198509728" seo="true" ref="character1">
-      <caption webpage="character1" alt=""/>
-    </file>
-    <file name="art4134x100.jpg" crc="413651495" seo="true" ref="character1">
-      <caption webpage="character1" alt=""/>
-      <caption webpage="character1" alt=""/>
-    </file>
-    <file name="art5-crop-u306.jpg" crc="101625796" seo="true" ref="character1">
-      <caption webpage="character1" alt=""/>
-    </file>
-    <file name="art6-crop-u315.jpg" crc="99076008" seo="true" ref="character1">
-      <caption webpage="character1" alt=""/>
-    </file>
     <file name="loading.gif" crc="3815509949" ref="character1"/>
-    <file name="art1-crop-u2102.jpg" crc="4263911305" seo="true" ref="character1">
+    <file name="face_you_make_before_sneeze_funny_meme.jpg" crc="526394387" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
       <caption webpage="character1" alt=""/>
     </file>
-    <file name="art2-crop-u2792.jpg" crc="147984015" seo="true" ref="character1">
+    <file name="2ddc7cf0d2204a5522cb88ebf81c4bfc.jpg" crc="3662537" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
       <caption webpage="character1" alt=""/>
     </file>
-    <file name="art3-crop-u2882.jpg" crc="198509728" seo="true" ref="character1">
+    <file name="maxresdefault (3).jpg" crc="316505556" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
       <caption webpage="character1" alt=""/>
     </file>
-    <file name="art5-crop-u3062.jpg" crc="101625796" seo="true" ref="character1">
+    <file name="face_you_make_before_sneeze_funny_meme134x101.jpg" crc="419927692" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
       <caption webpage="character1" alt=""/>
     </file>
-    <file name="art6-crop-u3152.jpg" crc="99076008" seo="true" ref="character1">
+    <file name="2ddc7cf0d2204a5522cb88ebf81c4bfc154x100.jpg" crc="3797203915" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="maxresdefault (3)-crop-u1159.jpg" crc="4178939336" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="maxresdefault (3)-crop-u11592.jpg" crc="4178939336" seo="true" ref="character1">
       <caption webpage="character1" alt=""/>
     </file>
   </folder>
@@ -170,5 +138,5 @@
   </folder>
   <file name="index.html" crc="4287310215" seo="true" mt="1525504460425" redirect="true"/>
   <file name="text.html" crc="4047417631" seo="true" mt="1525504455566" redirect="true"/>
-  <file name="character1.html" crc="3761041961" seo="true" mt="1525513302722" redirect="true"/>
+  <file name="character1.html" crc="391256730" seo="true" mt="1525519377621" redirect="true"/>
 </manifest>
