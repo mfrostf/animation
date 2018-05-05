@@ -1,0 +1,174 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="animationBeta.com" resolutions="1x" timestamp="1525504491144">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="497203859" ref="index"/>
+    <file name="nomq_index.css" crc="136870798" ref="index"/>
+    <file name="character1.css" crc="65731744" ref="character1"/>
+    <file name="nomq_character1.css" crc="3785573270" ref="character1"/>
+    <file name="text.css" crc="4049249542" ref="text"/>
+    <file name="nomq_text.css" crc="3823877609" ref="text"/>
+  </folder>
+  <folder name="fonts">
+    <file name="frizquadrataregular.woff" crc="43836262"/>
+    <file name="frizquadrataregular.eot" crc="3961762328"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>text:phone>character1:index:text:character1"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>text:phone>character1:index:text:character1"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>text:phone>character1:index:text:character1"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>text:phone>character1:index:text:character1"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>text:index:text:character1"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>text:phone>character1:index:text"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>text:phone>character1:index:text:character1"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:text:character1"/>
+    <file name="webpro.js" crc="4059564322" ref="character1"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="character1"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="character1"/>
+    <file name="touchswipe.js" crc="4075097462" ref="character1"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="character1"/>
+  </folder>
+  <folder name="images">
+    <file name="bg_main760x460.jpg" crc="3817292961" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btnleft-crop-u109.png" crc="189722235" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btnup-crop-u97.png" crc="528141905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btnmid-crop-u91.png" crc="3920996354" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btndown-crop-u103.png" crc="230809825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btnright-crop-u115.png" crc="4167025459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_main.jpg" crc="3853195175" ref="index:text">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="text" alt=""/>
+      <caption webpage="text" alt=""/>
+    </file>
+    <file name="btnleft-crop-u1092.png" crc="3863384355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btnup-crop-u972.png" crc="4044232713" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btnmid-crop-u912.png" crc="3823891462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btndown-crop-u1032.png" crc="64722393" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="btnright-crop-u1152.png" crc="4242790404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:text:character1"/>
+    <file name="border_0003_layer-1.png" crc="88967239" seo="true" ref="text">
+      <caption webpage="text" alt=""/>
+      <caption webpage="text" alt=""/>
+    </file>
+    <file name="border_0001_layer-3.png" crc="4134768453" seo="true" ref="text">
+      <caption webpage="text" alt=""/>
+      <caption webpage="text" alt=""/>
+    </file>
+    <file name="untitled-1.png" crc="4048811626" seo="true" ref="text">
+      <caption webpage="text" alt=""/>
+      <caption webpage="text" alt=""/>
+    </file>
+    <file name="border_0002_layer-2.png" crc="410035470" seo="true" ref="text">
+      <caption webpage="text" alt=""/>
+      <caption webpage="text" alt=""/>
+    </file>
+    <file name="border_0000_layer-4.png" crc="4064002906" seo="true" ref="text">
+      <caption webpage="text" alt=""/>
+      <caption webpage="text" alt=""/>
+    </file>
+    <file name="crow.jpg" crc="3956092050" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+      <caption webpage="character1" alt=""/>
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="backbtn.png" crc="4028767029" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art1.jpg" crc="68459731" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art2.jpg" crc="150643785" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art3.jpg" crc="504529692" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art4.jpg" crc="295402877" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art5.jpg" crc="4272311" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art6.jpg" crc="3766483182" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art1-crop-u210.jpg" crc="4263911305" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art2-crop-u279.jpg" crc="147984015" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art3-crop-u288.jpg" crc="198509728" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art4134x100.jpg" crc="413651495" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art5-crop-u306.jpg" crc="101625796" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art6-crop-u315.jpg" crc="99076008" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="character1"/>
+    <file name="art1-crop-u2102.jpg" crc="4263911305" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art2-crop-u2792.jpg" crc="147984015" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art3-crop-u2882.jpg" crc="198509728" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art5-crop-u3062.jpg" crc="101625796" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+    </file>
+    <file name="art6-crop-u3152.jpg" crc="99076008" seo="true" ref="character1">
+      <caption webpage="character1" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="513648751" ref="phone>index"/>
+      <file name="character1.css" crc="355120163" ref="phone>character1"/>
+      <file name="nomq_character1.css" crc="3824530138" ref="phone>character1"/>
+      <file name="text.css" crc="513648751" ref="phone>text"/>
+    </folder>
+    <file name="index.html" crc="367619520" seo="true" mt="1523508665035" redirect="false"/>
+    <file name="text.html" crc="3969813505" seo="true" mt="1523508665124" redirect="false"/>
+    <file name="character1.html" crc="3782757888" seo="true" mt="1523508665210" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="4287310215" seo="true" mt="1525504460425" redirect="true"/>
+  <file name="text.html" crc="4047417631" seo="true" mt="1525504455566" redirect="true"/>
+  <file name="character1.html" crc="175864088" seo="true" mt="1525504465531" redirect="true"/>
+</manifest>
