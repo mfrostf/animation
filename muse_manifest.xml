@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="animationBeta.com" resolutions="1x" timestamp="1525504491144">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="animation.asia" resolutions="1x" timestamp="1525513325252">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="497203859" ref="index"/>
     <file name="nomq_index.css" crc="136870798" ref="index"/>
-    <file name="character1.css" crc="65731744" ref="character1"/>
-    <file name="nomq_character1.css" crc="3785573270" ref="character1"/>
+    <file name="character1.css" crc="3863501133" ref="character1"/>
+    <file name="nomq_character1.css" crc="15853158" ref="character1"/>
     <file name="text.css" crc="4049249542" ref="text"/>
     <file name="nomq_text.css" crc="3823877609" ref="text"/>
   </folder>
@@ -170,5 +170,5 @@
   </folder>
   <file name="index.html" crc="4287310215" seo="true" mt="1525504460425" redirect="true"/>
   <file name="text.html" crc="4047417631" seo="true" mt="1525504455566" redirect="true"/>
-  <file name="character1.html" crc="175864088" seo="true" mt="1525504465531" redirect="true"/>
+  <file name="character1.html" crc="3761041961" seo="true" mt="1525513302722" redirect="true"/>
 </manifest>
